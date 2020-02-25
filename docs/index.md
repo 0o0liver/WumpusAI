@@ -8,7 +8,7 @@ title:  Home
 
 ## Welcome To Project Wumpus AI
 
-To view the source code, click [here](https://github.com/0o0liver/XDLMAO).
+To view the source code, click [here](https://github.com/hd-tran/WumpusAI).
 
 Hello, and welcome to Team WumpusAI project page! Here you will find the proposal as well as the detailed report about our project.
 
@@ -21,9 +21,3 @@ The AI agent of our project can intelligently navigate through a Wumpus World ma
 <img src="exampleMap2.png" alt="Malmo representation" style="height: 300px" />
 
 ### Hope you enjoy our website!
-
-
-
-
-
-
